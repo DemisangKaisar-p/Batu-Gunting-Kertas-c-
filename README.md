@@ -19,8 +19,7 @@ batu-gunting-kertas/
 ├── main.cpp
 └── README.md
 
-yaml
-Copy code
+
 
 ---
 
@@ -31,8 +30,7 @@ r = batu
 p = kertas
 s = gunting
 
-makefile
-Copy code
+
 
 Contoh:
 Masukkan pilihan Anda: r
@@ -40,8 +38,6 @@ Pilihan Anda: Batu
 Pilihan Komputer: Gunting
 Kamu menang!
 
-yaml
-Copy code
 
 ---
 
