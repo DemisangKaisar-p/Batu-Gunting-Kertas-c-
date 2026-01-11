@@ -16,7 +16,7 @@ Pemain memilih salah satu pilihan, lalu komputer akan memilih secara acak dan pr
 ## 📂 Struktur Project
 batu-gunting-kertas/
 │
-├── main.cpp
+├── Batu,Gunting,Kertas game.cpp
 └── README.md
 
 
